@@ -1,4 +1,4 @@
 # ATS-Postiats-docugen
 
-For documenting ATS, its libraries and beyond
+For documenting the ATS programming language, its libraries and beyond
 
